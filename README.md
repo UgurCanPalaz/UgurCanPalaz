@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### Computer Engineering Student | Cyber Security | Cloud | Distributed Systems
+### Cyber Security | Cloud Security | Distributed Systems | Automation
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;Cloud+%26+Distributed+Systems;Automation+Testing+Developer;Computer+Vision+%26+AI+Projects;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Cyber+Security+Enthusiast;Cloud+Security+%26+Infrastructure;WAF+%7C+DDoS+%7C+Threat+Intelligence;Distributed+Systems+Developer;Automation+Testing+Engineer;Computer+Vision+%26+AI+Projects" />
 
 </div>
 
@@ -12,13 +12,14 @@
 
 # 🚀 About Me
 
-- 🎓 Computer Engineering Student
-- 🔐 Interested in Cyber Security & Cloud Technologies
-- ☁️ Hands-on experience with Huawei Cloud & IAM
-- 🧪 Building Automation Testing Projects with Selenium
-- ⚙️ Developing Distributed Systems with Redis Cluster & Docker
-- 🤖 Interested in Computer Vision & AI
-- 📈 Passionate about scalable architectures and security-focused systems
+- 🎓 Computer Engineering Student at Doğuş University
+- 🔐 Focused on Cyber Security, Cloud Security, and Infrastructure Technologies
+- ☁️ Hands-on experience with Cloudflare migrations, WAF management, DDoS mitigation, and SSL/TLS lifecycle operations
+- 🛡️ Experienced in Threat Intelligence, Security Auditing, and Penetration Test Coordination
+- ⚙️ Building Distributed Systems using Redis Cluster & Docker
+- 🧪 Developing Automation Testing Projects with Selenium
+- 🤖 Interested in AI-powered Computer Vision Systems
+- 📈 Passionate about scalable, secure, and resilient architectures
 
 ---
 
@@ -36,11 +37,12 @@
 
 ---
 
-## Backend & Testing
+## Cyber Security
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 
 ---
 
@@ -52,11 +54,19 @@
 
 ---
 
-## Security & Tools
+## Backend & Testing
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+---
+
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![RT Toolbox 3](https://img.shields.io/badge/RT--Toolbox3-005BAC?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -73,8 +83,23 @@ Selenium-based end-to-end automation testing project for Airbnb search and filte
 ## 🔹 Video Content Management System
 Web-based admin dashboard for managing and organizing video content.
 
-## 🔹 Huawei Cloud IAM Security Project
-IAM role management, MFA authentication, and cloud security architecture implementation.
+## 🔹 YOLO Camera Occlusion Detection System
+Real-time AI-powered camera occlusion detection project using YOLO and Computer Vision techniques.
+
+## 🔹 Cloudflare Migration & Security Operations
+Cloudflare WAF deployment, DDoS mitigation, SSL/TLS lifecycle management, Load Balancer integration, and domain security operations.
+
+---
+
+# 🏆 Certifications
+
+- ISC2 Candidate
+- Cisco Networking Academy – CCNAv7
+- Cisco Networking Academy – Endpoint Security
+- Cisco Networking Academy – Cyber Threat Management
+- Cisco Networking Academy – Introduction to Cybersecurity
+- BrightTALK – Radware Threat Analysis
+- Borusan Tech School Certificate
 
 ---
 
@@ -124,6 +149,6 @@ IAM role management, MFA authentication, and cloud security architecture impleme
 
 <div align="center">
 
-### 🚀 Always building, learning, and improving.
+### 🔐 Security-Focused Engineer Building Scalable & Secure Systems
 
 </div>
