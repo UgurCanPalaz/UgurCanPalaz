@@ -125,13 +125,7 @@ Cloudflare WAF deployment, DDoS mitigation, SSL/TLS lifecycle management, Load B
 
 ---
 
-# 🐍 Contribution Snake Animation
 
-<div align="center">
-
-![snake gif](https://github.com/UgurCanPalaz/UgurCanPalaz/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
