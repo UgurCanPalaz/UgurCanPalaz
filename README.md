@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Computer Engineering Student | Cyber Security | Cloud | Automation | Distributed Systems
+### Computer Engineering Student | Cyber Security | Cloud | Distributed Systems
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;Cloud+%26+Distributed+Systems;Automation+Testing+Developer;Computer+Vision+%26+AI+Projects;Always+Learning+New+Technologies" />
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 Computer Engineering Student
 - 🔐 Interested in Cyber Security & Cloud Technologies
@@ -22,50 +22,63 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Languages
 
-### Backend & Testing
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+---
+
+## Backend & Testing
+
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-### Cloud & DevOps
+---
+
+## Cloud & DevOps
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Huawei Cloud](https://img.shields.io/badge/Huawei%20Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
 
-### Security & Tools
+---
+
+## Security & Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🔹 Redis Cluster KV Store
+## 🔹 Redis Cluster KV Store
 Distributed key-value store implementation using Redis Cluster and Docker with horizontal scalability support.
 
-### 🔹 Airbnb Automation Testing
+## 🔹 Airbnb Automation Testing
 Selenium-based end-to-end automation testing project for Airbnb search and filtering scenarios.
 
-### 🔹 Video Content Management System
+## 🔹 Video Content Management System
 Web-based admin dashboard for managing and organizing video content.
 
-### 🔹 Huawei Cloud IAM Security Project
+## 🔹 Huawei Cloud IAM Security Project
 IAM role management, MFA authentication, and cloud security architecture implementation.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -77,7 +90,7 @@ IAM role management, MFA authentication, and cloud security architecture impleme
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -87,7 +100,7 @@ IAM role management, MFA authentication, and cloud security architecture impleme
 
 ---
 
-## 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake Animation
 
 <div align="center">
 
@@ -97,11 +110,12 @@ IAM role management, MFA authentication, and cloud security architecture impleme
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/u%C4%9Fur-can-palaz-0bb15b319/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UgurCanPalaz)
 
 </div>
