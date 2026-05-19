@@ -10,13 +10,13 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 I am a Computer Engineering student at Doğuş University with a strong interest in Cyber Security, Cloud Security, Distributed Systems, and Infrastructure Technologies. I have hands-on experience in Cloudflare network migrations, WAF configuration, DDoS mitigation, SSL/TLS lifecycle management, and threat intelligence operations. Alongside security-focused infrastructure projects, I also develop distributed system architectures using Redis Cluster and Docker, automation testing solutions with Selenium, and AI-powered computer vision applications. I am passionate about building scalable, resilient, and secure systems while continuously improving my technical and analytical skills.
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -84,7 +84,7 @@ Cloudflare WAF deployment, DDoS mitigation, SSL/TLS lifecycle management, Load B
 
 ---
 
-# 🏆 Certifications
+#  Certifications
 
 - ISC2 Candidate
 - Cisco Networking Academy – CCNAv7
@@ -101,7 +101,7 @@ Cloudflare WAF deployment, DDoS mitigation, SSL/TLS lifecycle management, Load B
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <div align="center">
 
@@ -115,7 +115,7 @@ Cloudflare WAF deployment, DDoS mitigation, SSL/TLS lifecycle management, Load B
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
