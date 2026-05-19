@@ -103,14 +103,7 @@ Cloudflare WAF deployment, DDoS mitigation, SSL/TLS lifecycle management, Load B
 
 ---
 
-# 📊 GitHub Stats
 
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UgurCanPalaz&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UgurCanPalaz&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 </div>
 
 ---
