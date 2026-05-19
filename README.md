@@ -1,4 +1,4 @@
-# Hi there, I'm Uğur Can Palaz 👋
+# Uğur Can Palaz
 
 <div align="center">
 
