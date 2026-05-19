@@ -12,14 +12,7 @@
 
 # 🚀 About Me
 
-- 🎓 Computer Engineering Student at Doğuş University
-- 🔐 Focused on Cyber Security, Cloud Security, and Infrastructure Technologies
-- ☁️ Hands-on experience with Cloudflare migrations, WAF management, DDoS mitigation, and SSL/TLS lifecycle operations
-- 🛡️ Experienced in Threat Intelligence, Security Auditing, and Penetration Test Coordination
-- ⚙️ Building Distributed Systems using Redis Cluster & Docker
-- 🧪 Developing Automation Testing Projects with Selenium
-- 🤖 Interested in AI-powered Computer Vision Systems
-- 📈 Passionate about scalable, secure, and resilient architectures
+I am a Computer Engineering student at Doğuş University with a strong interest in Cyber Security, Cloud Security, Distributed Systems, and Infrastructure Technologies. I have hands-on experience in Cloudflare network migrations, WAF configuration, DDoS mitigation, SSL/TLS lifecycle management, and threat intelligence operations. Alongside security-focused infrastructure projects, I also develop distributed system architectures using Redis Cluster and Docker, automation testing solutions with Selenium, and AI-powered computer vision applications. I am passionate about building scalable, resilient, and secure systems while continuously improving my technical and analytical skills.
 
 ---
 
